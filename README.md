@@ -2,7 +2,7 @@
 
 静态单页官网，主下载入口指向 TapTap：
 
-https://www.taptap.cn/app/830578?os=android
+https://l.taptap.cn/zKKr63uo?channel=rep-rep_kfmbj1xqjxg
 
 ## 本地预览
 
